@@ -1,2 +1,2 @@
-# NewsHeadlineGenerator
-Code to generate news headlines using CNN based on older headlines
+# Gerador de Manchete
+Extração e modelo RNN para criação de manchetes de notícias.
